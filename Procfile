@@ -1,1 +1,1 @@
-worker: bash start
+python3 bot.py
